@@ -9,6 +9,8 @@ Just an [awesome](http://awesome.re/) list of quantum-related resources written 
 - [MonteCarlo.jl](https://github.com/crstnbr/MonteCarlo.jl) :: Classical and quantum Monte Carlo simulations in Julia
 - [LinQu.jl](https://github.com/YiqingZhouKelly/LinQu.jl) :: Julia library for quantum circuit simulation using tensor networks
 - [JuES.jl](https://github.com/mdav2/JuES.jl) :: Quantum chemical simulation in Julia
+- [ITensors.jl](https://github.com/ITensor/ITensors.jl) :: A Julia library for efficient tensor computations and tensor network calculations [<img width="16px" src="/images/ai-arxiv.png">](https://arxiv.org/abs/2007.14822) [<img width="16px" src="/images/fa-link.png">](https://itensor.github.io/ITensors.jl/dev/index.html)
+- [PauliStrings.jl](https://github.com/nicolasloizeau/PauliStrings.jl) :: Quantum many body systems with Pauli strings [<img width="16px" src="/images/ai-arxiv.png">](https://arxiv.org/abs/2410.09654) [<img width="16px" src="/images/fa-link.png">](https://paulistrings.org/)
 - [QuantumBayesian.jl](https://github.com/justindressel/QuantumBayesian.jl) :: Julia package for simulating quantum evolution, including quantum Bayesian stochastic readout (inactive)
 - [QuCmp.jl](https://github.com/JuliaQuantum/QuCmp.jl) :: A JuliaQuantum package for simulations of quantum computers.
  (inactive)
